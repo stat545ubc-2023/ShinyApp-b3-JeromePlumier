@@ -28,13 +28,13 @@ The following three features were selected for this assignment:
 
 1.  The separation of the application into a main panel and a side panel, for aesthetic purposes.
 
-2.  Allow the user to search for multiple entries simultaneously - The app allows for users to view results for multiple diameter ranges at the same time.
+2.  Allow the user to search for multiple entries simultaneously - The app allows for users to view results for multiple diameter ranges at the same time, which grants great freedom in data exploration to the user.
 
-3.  Allow the user to search for multiple entries simultaneously - The app allows for users to view results for multiple date ranges at the same time.
+3.  Allow the user to search for multiple entries simultaneously - The app allows for users to view results for multiple date ranges at the same time,  which grants great freedom in data exploration to the user.
 
 4.  Plot - The app takes in selected diameter ranges and selected date range as input and create a plot. The plot updates based on these inputs, and permits easy visualization of the desired data.
 
-5.  Table - The app takes in selected diameter ranges and selected date range as input and create a table. The table updates based on these inputs, and permits easy access of all the desired data..
+5.  Table - The app takes in selected diameter ranges and selected date range as input and create a table. The table updates based on these inputs, and permits easy access of all the desired data.
 
 ## Data
 
