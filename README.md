@@ -32,9 +32,9 @@ The following three features were selected for this assignment:
 
 3.  Allow the user to search for multiple entries simultaneously - The app allows for users to view results for multiple date ranges at the same time.
 
-4.  Add parameters to the plot - The app takes in selected diameter ranges and selected date range as input. The plot updates based on these inputs.
+4.  Plot - The app takes in selected diameter ranges and selected date range as input and create a plot. The plot updates based on these inputs, and permits easy visualization of the desired data.
 
-5.  Add parameters to the table - The app takes in selected diameter ranges and selected date range as input. The table updates based on these inputs.
+5.  Table - The app takes in selected diameter ranges and selected date range as input and create a table. The table updates based on these inputs, and permits easy access of all the desired data..
 
 ## Data
 
